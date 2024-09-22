@@ -45,7 +45,7 @@ You will need the following installed:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Muhammad-AbdulRehman-Aamer/MicroserviceOps-End-to-End-CI-CD-Automation-for-Microservices
-   cd devops-project-02-main
+   cd MicroserviceOps-End-to-End-CI-CD-Automation-for-Microservices
    ```
 
 2. **Set up frontend**:
