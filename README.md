@@ -1,6 +1,6 @@
 
 
-# DevOps Project for Microservices Application
+# MicroserviceOps-End-to-End-CI-CD-Automation-for-Microservices
 
 This project implements a complete DevOps pipeline for a microservices application. It includes:
 - **Frontend**: Built with React.
