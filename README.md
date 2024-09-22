@@ -1,6 +1,4 @@
-Here’s an enhanced version of your **README.md** for the project:
 
----
 
 # DevOps Project for Microservices Application
 
