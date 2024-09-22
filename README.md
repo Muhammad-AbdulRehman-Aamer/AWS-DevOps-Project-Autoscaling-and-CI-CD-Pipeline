@@ -20,7 +20,6 @@ This project implements a complete DevOps pipeline for a microservices applicati
 - [Folder Structure](#folder-structure)
 - [CI/CD Pipeline](#cicd-pipeline)
 - [Kubernetes Deployment](#kubernetes-deployment)
-- [Usage](#usage)
 - [Contributors](#contributors)
 
 ## Project Overview
